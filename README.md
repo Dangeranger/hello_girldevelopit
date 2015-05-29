@@ -1,2 +1,2 @@
 # hello_girldevelopit
-This is for demonstration
+This is for teaching git and github
